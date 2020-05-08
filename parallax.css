@@ -1,0 +1,52 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0px;
+}
+   
+    
+  
+
+.pimg1 {
+    background-image: url("http://saylaniwelfare.com/public_html/images/saylani/slider2.png");
+    opacity: 1;
+    min-height: 80%;
+    min-width: 100%;
+    
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.pimg1{
+    position: relative;
+    padding-top:0px ;
+    margin: 0px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+
+}
+
+.ptext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    
+    text-align: center;
+    color: #000;
+    font-size: 27px;
+    letter-spacing: 8px;
+    
+    
+
+}
+
+#cover-logo {
+   width: 30%;
+   -webkit-filter: drop-shadow(3px 3px 1px rgba(0,0,0,0.7));
+ 
+   
+}
+
